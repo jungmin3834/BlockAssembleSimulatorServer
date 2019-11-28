@@ -1,0 +1,19 @@
+C:\Users\DUMB\Desktop\유니티 서버\Server_Enter\Server_Enter\bin\Release\Server_Enter.exe.config
+C:\Users\DUMB\Desktop\유니티 서버\Server_Enter\Server_Enter\bin\Release\Server_Enter.exe
+C:\Users\DUMB\Desktop\유니티 서버\Server_Enter\Server_Enter\bin\Release\Server_Enter.pdb
+C:\Users\DUMB\Desktop\유니티 서버\Server_Enter\Server_Enter\obj\Release\Server_Enter.exe
+C:\Users\DUMB\Desktop\유니티 서버\Server_Enter\Server_Enter\obj\Release\Server_Enter.pdb
+C:\Users\DUMB\Desktop\유니티 서버\Server_Enter\Server_Enter\obj\Release\Server_Enter.csprojResolveAssemblyReference.cache
+D:\비트 정리\Server_Enter\Server_Enter\bin\Release\Server_Enter.exe.config
+D:\비트 정리\Server_Enter\Server_Enter\bin\Release\Server_Enter.exe
+D:\비트 정리\Server_Enter\Server_Enter\bin\Release\Server_Enter.pdb
+D:\비트 정리\Server_Enter\Server_Enter\obj\Release\Server_Enter.csprojAssemblyReference.cache
+D:\비트 정리\Server_Enter\Server_Enter\obj\Release\Server_Enter.csproj.CoreCompileInputs.cache
+D:\비트 정리\Server_Enter\Server_Enter\obj\Release\Server_Enter.exe
+D:\비트 정리\Server_Enter\Server_Enter\obj\Release\Server_Enter.pdb
+G:\Programming\OpenHack\서버\Server_Enter\Server_Enter\bin\Release\Server_Enter.exe.config
+G:\Programming\OpenHack\서버\Server_Enter\Server_Enter\obj\Release\Server_Enter.exe
+G:\Programming\OpenHack\서버\Server_Enter\Server_Enter\obj\Release\Server_Enter.pdb
+G:\Programming\OpenHack\서버\Server_Enter\Server_Enter\bin\Release\Server_Enter.exe
+G:\Programming\OpenHack\서버\Server_Enter\Server_Enter\bin\Release\Server_Enter.pdb
+G:\Programming\OpenHack\서버\Server_Enter\Server_Enter\obj\Release\Server_Enter.csprojResolveAssemblyReference.cache

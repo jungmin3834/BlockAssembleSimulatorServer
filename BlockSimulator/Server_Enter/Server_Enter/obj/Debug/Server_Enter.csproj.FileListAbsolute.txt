@@ -1,0 +1,5 @@
+C:\Users\DUMB\Desktop\유니티 서버\Server_Enter\Server_Enter\bin\Debug\Server_Enter.exe.config
+C:\Users\DUMB\Desktop\유니티 서버\Server_Enter\Server_Enter\bin\Debug\Server_Enter.exe
+C:\Users\DUMB\Desktop\유니티 서버\Server_Enter\Server_Enter\bin\Debug\Server_Enter.pdb
+C:\Users\DUMB\Desktop\유니티 서버\Server_Enter\Server_Enter\obj\Debug\Server_Enter.exe
+C:\Users\DUMB\Desktop\유니티 서버\Server_Enter\Server_Enter\obj\Debug\Server_Enter.pdb

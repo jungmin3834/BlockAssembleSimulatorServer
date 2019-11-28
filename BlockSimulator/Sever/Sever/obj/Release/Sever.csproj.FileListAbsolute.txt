@@ -1,0 +1,22 @@
+C:\Users\DUMB\Desktop\유니티 서버\Sever\Sever\bin\Release\Sever.exe.config
+C:\Users\DUMB\Desktop\유니티 서버\Sever\Sever\bin\Release\Sever.exe
+C:\Users\DUMB\Desktop\유니티 서버\Sever\Sever\bin\Release\Sever.pdb
+C:\Users\DUMB\Desktop\유니티 서버\Sever\Sever\obj\Release\Sever.exe
+C:\Users\DUMB\Desktop\유니티 서버\Sever\Sever\obj\Release\Sever.pdb
+C:\Users\DUMB\Desktop\유니티 서버\Sever\Sever\obj\Release\Sever.csprojResolveAssemblyReference.cache
+D:\비트 정리\Sever\Sever\bin\Release\Sever.exe.config
+D:\비트 정리\Sever\Sever\bin\Release\Sever.exe
+D:\비트 정리\Sever\Sever\bin\Release\Sever.pdb
+D:\비트 정리\Sever\Sever\obj\Release\Sever.csproj.CoreCompileInputs.cache
+D:\비트 정리\Sever\Sever\obj\Release\Sever.exe
+D:\비트 정리\Sever\Sever\obj\Release\Sever.pdb
+D:\비트 정리\Sever\Sever\obj\Release\Sever.csprojAssemblyReference.cache
+G:\Programming\OpenHack\서버\Sever\Sever\bin\Release\Sever.exe.config
+G:\Programming\OpenHack\서버\Sever\Sever\obj\Release\Sever.exe
+G:\Programming\OpenHack\서버\Sever\Sever\obj\Release\Sever.pdb
+G:\Programming\OpenHack\서버\Sever\Sever\bin\Release\Sever.exe
+G:\Programming\OpenHack\서버\Sever\Sever\bin\Release\Sever.pdb
+G:\Programming\OpenHack\서버\Sever\Sever\obj\Release\Sever.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Desktop\블럭어셈블리 서버\BlockSimulator\Sever\Sever\bin\Release\Sever.exe.config
+C:\Users\MSI\Desktop\블럭어셈블리 서버\BlockSimulator\Sever\Sever\obj\Release\Sever.exe
+C:\Users\MSI\Desktop\블럭어셈블리 서버\BlockSimulator\Sever\Sever\obj\Release\Sever.pdb
