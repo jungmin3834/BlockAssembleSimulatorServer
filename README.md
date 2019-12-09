@@ -4,4 +4,4 @@
 
 # 프로젝트 사진
 
-![title](https://github.com/jungmin3834/BlockAssembleSimulatorServer/blob/master/image/ProjectPictureA.png)
+![title](https://github.com/jungmin3834/BlockAssembleSimulatorServer/blob/master/images/ProjectPictureA.png)
